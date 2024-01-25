@@ -3,7 +3,8 @@
     {
       "id": 1,
       "nombre": "banana",
-      "color": "amarillo"
+      "color": "amarillo",
+      "para": "Charmander"
     },
     {
       "id": 2,
@@ -14,6 +15,8 @@
       "id": 3,
       "nombre": "uva",
       "color": "morado"
+      "para": "Bulbasaur"
+
     },
     {
       "id": 4,
