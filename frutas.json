@@ -4,31 +4,33 @@
       "id": 1,
       "nombre": "banana",
       "color": "amarillo",
-      "para": "Charmander"
+      "para": "Blastoise"
     },
     {
       "id": 2,
       "nombre": "manzana",
-      "color": "rojo"
+      "color": "rojo",
+      "para": ["Charizard", "Charmeleon"]
+
     },
     {
       "id": 3,
       "nombre": "uva",
       "color": "morado",
-      "para": "Bulbasaur"
-
+      "para": ["Bulbasaur", "Squirtle"]
     },
     {
       "id": 4,
       "nombre": "naranja",
-      "color": "naranja"
+      "color": "naranja",
+      "para": ["Wartortle", "Ivysaur"]
+
     },
     {
       "id": 5,
       "nombre": "fresa",
       "color": "rojo",
-      "para": "Squirtle"
-
+      "para": "charmander"
     }
   ]
 }
