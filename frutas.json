@@ -30,7 +30,7 @@
       "id": 5,
       "nombre": "fresa",
       "color": "rojo",
-      "para": "Charmander, "Venusaur"]
+      "para": ["Charmander", "Venusaur"]
     }
   ]
 }
